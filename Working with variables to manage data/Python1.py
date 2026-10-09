@@ -24,3 +24,9 @@ print("Krishna"+"Kumar"+"Shah")
   Output: KrishnaKumarShah
 print("Krishna"+" "+"Kumar"+"Shah")
 Output : Krishna Kumar Shah
+
+...............................................................
+Space before print("ZZZZZZ")
+---------------------------------------------------------------
+    print("Krish"+" shah")
+OutPut : Throw error 
