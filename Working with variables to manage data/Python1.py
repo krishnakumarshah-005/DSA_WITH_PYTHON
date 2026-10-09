@@ -1,4 +1,4 @@
- L7// to print variable
+ #############################################################L7// to print variable
 ..........................................................
 print("Hello Word")    
 Output== Hello World
@@ -53,4 +53,6 @@ print("Strings are strings of characters")
 print("String Concatenation is done with the + sign")
 print("New lines can be created with a \ and the letter n")
 ________________________________________________________________________
+      
+#############################################################################   L8   -> Python input function
       
