@@ -56,3 +56,10 @@ ________________________________________________________________________
       
 #############################################################################   L8   -> Python input function
 input("What is your name?")
+
+input("What is your name ? ")
+print("Hello "+ input("What is your name ? "))
+
+Output:
+What is your name ? Krishna
+Hello Krishna
