@@ -75,3 +75,12 @@ print(name)
 
 Output:
 krishna Kumar shah
+###################################################################################
+name="krishna Kumar shah"
+print(name+" has length of "+str(len(name))+" Characters")
+callby = "krishna Kumar shah"
+print(f"{callby} has length of {len(name)} Characters")
+
+Output:
+krishna Kumar shah has length of 18 Characters
+krishna Kumar shah has length of 18 Characters
