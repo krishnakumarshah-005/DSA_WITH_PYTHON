@@ -71,3 +71,24 @@ OUTPUT:
 23
 24
 
+# round()
+print(23.95)
+print(int(23.95))
+print(round(23.95))
+print(round(9.009,2))
+
+"""
+OUTPUT: 
+23.95
+23
+24
+9.01
+"""
+
+# Assignment(==,*=,/=,-=)
+score=0
+score += 1
+print(score)  
+print(f"Your  Core is {score}")
+ # Output: 1 
+ # Output: Your  Core is 1            
