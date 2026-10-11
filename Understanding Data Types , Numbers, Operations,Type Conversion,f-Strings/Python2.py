@@ -66,4 +66,8 @@ OUTPUT:
 print(23.95)
 print(int(23.95))
 print(round(23.95
+OUTPUT:
+23.95
+23
+24
 
