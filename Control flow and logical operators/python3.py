@@ -29,6 +29,7 @@ grow taller to ride the roster
   <=  less than or equals to 
   >=  Greater than or equals to
   !=  Not equals to
+  == equals to
 ------------------------------------------------------------------    
     
     
