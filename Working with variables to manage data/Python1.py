@@ -63,3 +63,10 @@ print("Hello "+ input("What is your name ? "))
 Output:
 What is your name ? Krishna
 Hello Krishna
+
+name=input("What is your name ? ")
+print(name)
+Output:
+What is your name ? Krishna kumar shah
+Krishna kumar shah
+      
