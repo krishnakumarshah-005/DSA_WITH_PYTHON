@@ -84,3 +84,8 @@ print(f"{callby} has length of {len(name)} Characters")
 Output:
 krishna Kumar shah has length of 18 Characters
 krishna Kumar shah has length of 18 Characters
+
+#############################################################################
+print(len(input("Enter your name")))
+output:
+7
