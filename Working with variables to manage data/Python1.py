@@ -98,4 +98,4 @@ output:
       name1
       _name,name_
 
-     Note : 1name,@name,#name,-name
+     Note : 1name,@name,#name,-name,+name   These are not allowed in python 
