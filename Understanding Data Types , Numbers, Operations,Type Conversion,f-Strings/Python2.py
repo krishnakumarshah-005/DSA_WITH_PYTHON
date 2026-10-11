@@ -63,3 +63,7 @@ OUTPUT:
 18
 81
 
+print(23.95)
+print(int(23.95))
+print(round(23.95
+
