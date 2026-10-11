@@ -89,3 +89,13 @@ krishna Kumar shah has length of 18 Characters
 print(len(input("Enter your name")))
 output:
 7
+#############################################################################
+ ----------------------------------------
+      Variable naming
+ ---------------------------------------- 
+      name_of_employee
+      name
+      name1
+      _name,name_
+
+     Note : 1name,@name,#name,-name
