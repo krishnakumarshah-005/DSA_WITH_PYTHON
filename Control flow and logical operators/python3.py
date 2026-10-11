@@ -22,3 +22,14 @@ Enter your height120
 grow taller to ride the roster
 
 ...................................................................
+
+# Some Conditional Operator
+  <  Less than
+  >  Greater than
+  <=  less than or equals to 
+  >=  Greater than or equals to
+  !=  Not equals to
+------------------------------------------------------------------    
+    
+    
+    
