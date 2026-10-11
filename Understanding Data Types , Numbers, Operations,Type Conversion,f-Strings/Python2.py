@@ -19,3 +19,26 @@ num2 = 123_456_789   # easier to read
 print(num1 == num2)  # True
 
 # Type error , Type checking and Type Conversion
+print(type(123))
+print(type('Hello'))
+print(type(123.01))
+print(type(True))
+
+
+'''
+OUTPUT:
+<class 'int'>
+<class 'str'>
+<class 'float'>
+<class 'bool'>
+'''
+
+#Conversion type(Casting)
+print(int('123')+int('456'))
+print("Golmal hai bhai sab gol maal hai "+str(len(input("Enter your name "))))
+
+''''
+579
+Enter your name krishna
+Golmal hai bhai sab gol maal hai 7
+'''
