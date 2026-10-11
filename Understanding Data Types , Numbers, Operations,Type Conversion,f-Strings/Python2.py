@@ -42,3 +42,24 @@ print("Golmal hai bhai sab gol maal hai "+str(len(input("Enter your name "))))
 Enter your name krishna
 Golmal hai bhai sab gol maal hai 7
 '''
+...............................................................
+Mathematical Operation in Python (BODMAS(Left to right)-----> (),{},[], /,*,+,-)
+---------------------------------------------------------------
+print(2+9)
+print(9-2)
+print(2*2)
+print(9/3)
+print(9//3)
+print(9*2)
+print(9**2)
+
+
+OUTPUT:
+11
+7
+4
+3.0
+3
+18
+81
+
