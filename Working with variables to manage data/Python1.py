@@ -69,4 +69,9 @@ print(name)
 Output:
 What is your name ? Krishna kumar shah
 Krishna kumar shah
-      
+
+name="krishna Kumar shah"
+print(name)
+
+Output:
+krishna Kumar shah
