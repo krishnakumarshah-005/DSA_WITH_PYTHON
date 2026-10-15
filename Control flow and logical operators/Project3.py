@@ -98,3 +98,36 @@ You can ride
 Enter your age: 23
 Do you want a photo? Y for Yes, N for No: Y
 Please pay: 17
+.....................................
+#work out how much they need to pay based on their size choice: S=15 ,M=20 ,L=25
+# work out how much to add to their bill based on their pepperoni choice.S=+2,M/L=+3
+#work out their final amount based on whether if they want extra cheese. +1
+print("Welcome to python pizza Deliveries!")
+bill=0
+size=input("What size pizza do you want ? S, M OR L:")
+if size=='S':
+        bill+=15
+elif size=='M':
+        bill+=20
+elif size=='L':
+        bill+=25;
+else
+        print("You typed wrong")
+pepperoni=input("Do you want pepperoni on your pizza? Y or N: ")
+if pepperoni=="Y":
+        if size=='S':
+               bill+=2
+        else:
+               bill+=3
+extra_cheese=input("Do you want extra cheese? Y or N : ")
+if extra_cheese=='Y':
+        bill+=1;
+print(bill)
+
+OutPut:
+Welcome to python pizza Deliveries!
+What size pizza do you want ? S, M OR L:L
+Do you want pepperoni on your pizza? Y or N: Y
+Do you want extra cheese? Y or N : N
+28
+.................................................................
