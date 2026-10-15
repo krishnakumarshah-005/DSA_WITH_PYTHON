@@ -32,5 +32,8 @@ grow taller to ride the roster
   == equals to
 ------------------------------------------------------------------    
     # % Modulo operator
-    
-    
+    # Introducing the modulo(%)
+    print(5%2)
+Output: 1   
+    print(11%3)
+Output: 2    
