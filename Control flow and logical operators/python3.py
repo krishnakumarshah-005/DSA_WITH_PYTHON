@@ -37,3 +37,14 @@ grow taller to ride the roster
 Output: 1   
     print(11%3)
 Output: 2    
+-------------------------------------------------------------------------
+    # nested If or elif
+if condition:
+    do this 
+    if condition:
+    do this 
+    else:
+    do this
+else:   
+    do this
+    
