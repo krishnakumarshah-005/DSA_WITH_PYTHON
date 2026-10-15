@@ -47,4 +47,18 @@ if condition:
     do this
 else:   
     do this
+
+
+if condition:
+    do this
+    elif confition:
+    do this
+    elif condition:
+    do this
+    else:
+    do this
+else:
+    do this
+    
+    
     
