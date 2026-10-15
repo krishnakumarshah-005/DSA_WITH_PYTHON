@@ -67,3 +67,34 @@ elif bmi<25:
 else:
     print("overweight")
 /
+
+...........................................
+print("Welcome to the rollerCoaster")
+bill = 0
+
+height = int(input("Enter your height: "))
+if height > 120:
+    print("You can ride")
+    age = int(input("Enter your age: "))
+    if age <= 12:
+        bill = 4
+    elif age <= 18:
+        bill = 7
+    else:
+        bill = 12
+
+    wants_photo = input("Do you want a photo? Y for Yes, N for No: ")
+    if wants_photo == "Y":
+        print(f"Please pay: {bill + 5}")
+    else:
+        print(f"Please pay: {bill}")
+else:
+    print("Sorry, you are not allowed because of your safety")
+    
+Output:
+Welcome to the rollerCoaster
+Enter your height: 123
+You can ride
+Enter your age: 23
+Do you want a photo? Y for Yes, N for No: Y
+Please pay: 17
